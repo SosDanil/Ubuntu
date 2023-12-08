@@ -1,1 +1,1 @@
-print('Privet')
+123
